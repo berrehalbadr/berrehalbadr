@@ -10,3 +10,12 @@
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I probably speak your language! 
 
+### Connect with me:
+
+
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/badreddine-berrehal-a51010175-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/badreddine-berrehal-a51010175-dark-mode-only)
+&nbsp;&nbsp;
